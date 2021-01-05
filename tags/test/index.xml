@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Darshan Bhoi 😄❕</title>
+    <link>https://bdarsh.github.io/tags/test/</link>
+    <description>Recent content in test on Darshan Bhoi 😄❕</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 14:58:14 -0500</lastBuildDate><atom:link href="https://bdarsh.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://bdarsh.github.io/posts/2021/01/test-post/</link>
+      <pubDate>Tue, 05 Jan 2021 14:58:14 -0500</pubDate>
+      
+      <guid>https://bdarsh.github.io/posts/2021/01/test-post/</guid>
+      <description>Hello world!!!!  Welcome to my new GitHub Pages blog  This site was generated using Hugo and is hosted using GitHub Pages. I am hoping to spread my knowledge and expertise through this site in the coming days/weeks.</description>
+    </item>
+    
+  </channel>
+</rss>
